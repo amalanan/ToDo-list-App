@@ -58,11 +58,9 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Made by [Your Name](https://github.com/YOUR_USERNAME)
+Made by [Amal Anan](https://github.com/amalanan/)
 
 ```
 
 ---
 
-Let me know if you’d like it in a file or want a `LICENSE.md` too!
-```
